@@ -89,8 +89,8 @@ NOTE : _you may get really weird logs and if these logs do not stop, just close 
 * `exit` : to exit the terminal
 * `info`  : to get the help dialouge box.
 
-## There are lot of bugs to work upon, it is just a basic working demo of p2p app which i made as computer networking course project.  
-## if you want to work further on this Or understand the code base, i would be happy to help. Reach out to me directly at Ujjwal54784@gmail.com or raise an issue in the repo. 😄
+
+#### if you want to work further on this Or understand the code base, i would be happy to help. Reach out to me directly at Ujjwal54784@gmail.com or raise an issue in the repo. 😄
 
 
 
